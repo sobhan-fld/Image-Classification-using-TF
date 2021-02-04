@@ -1,4 +1,6 @@
 # Image-Classification-using-TF
 Writer: Sobhan Fld
-Master : Dr MuhammadZade
-dataset : Kaggle Cat and Dog recognition
+
+Master : Dr Muhammad Zade
+
+dataset :https://www.kaggle.com/c/dogs-vs-cats/data
