@@ -1,5 +1,5 @@
 # Image-Classification-using-TF
-with 92% accuracy
+92% accuracy
 
 Writer: Sobhan Fld
 
