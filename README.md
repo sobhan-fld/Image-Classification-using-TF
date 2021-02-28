@@ -1,8 +1,9 @@
 # Image-Classification-using-TF
+
 92% accuracy
 
 Writer: Sobhan Fld
 
-Master: Dr Muhammad Zade
+Tutor: Dr MuhammadZade
 
 dataset:https://www.kaggle.com/c/dogs-vs-cats/data
